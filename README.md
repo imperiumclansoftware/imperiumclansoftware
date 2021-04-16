@@ -1,3 +1,3 @@
-Imperium Clan Software
+# Imperium Clan Software
 
-We are an independant developers group
+we are independant developers specialised in php an symfony. we proposed a collection of symfony bundles for simplify application developpement.
